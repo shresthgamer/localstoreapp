@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Druto",
+      "hasCanvas": false,
+      "bodyTextLen": 424,
+      "bodyTextHash": "7a3abecb1692cbb0c9ee846ef5a23dc5ea1188c28f56e9e87d84047c5e2fc817",
+      "bodyTextPrefix": "AI Food Lab Cafe 47 SCANS 10 GUESTS 3 REWARDS 90% REPEAT Your QR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Druto",
+      "hasCanvas": false,
+      "bodyTextLen": 424,
+      "bodyTextHash": "7a3abecb1692cbb0c9ee846ef5a23dc5ea1188c28f56e9e87d84047c5e2fc817",
+      "bodyTextPrefix": "AI Food Lab Cafe 47 SCANS 10 GUESTS 3 REWARDS 90% REPEAT Your QR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
